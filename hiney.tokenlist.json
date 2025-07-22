@@ -1,0 +1,22 @@
+{
+  "name": "HINEY Token List",
+  "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
+  "tags": {
+    "community": {
+      "name": "Community Token",
+      "description": "First Solana community coin blending entertainment, utility, and real impact."
+    }
+  },
+  "timestamp": "2025-07-22T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray",
+      "symbol": "HINEY",
+      "name": "Hineycoin",
+      "decimals": 9,
+      "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
+      "tags": ["community"]
+    }
+  ]
+}
