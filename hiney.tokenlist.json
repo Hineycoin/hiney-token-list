@@ -1,5 +1,5 @@
 {
-  "name": "Hineycoin (HINEY)",
+  "name": "Hineycoin",
   "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
   "tags": {
     "meme": {
@@ -16,6 +16,11 @@
     }
   },
   "timestamp": "2025-07-22T12:00:00+00:00",
+  "extensions": {
+    "website": "https://hineycoin.online",
+    "twitter": "https://x.com/hineycoin",
+    "telegram": "https://t.me/+wA1XLDnM4r9kMWYx"
+  },
   "tokens": [
     {
       "chainId": 101,
