@@ -10,12 +10,16 @@
       "name": "Community Token",
       "description": "Token managed and supported by community."
     },
-    "raydium-launch": {
-      "name": "Raydium Launchpad",
-      "description": "Token launched via Raydium Launchpad."
+    "launchpad": {
+      "name": "Launchpad",
+      "description": "Token launched via a launchpad platform."
+    },
+    "raydium": {
+      "name": "Raydium",
+      "description": "Token launched on the Raydium platform."
     }
   },
-  "timestamp": "2025-07-22T12:00:00+00:00",
+  "timestamp": "2025-08-09T00:00:00+00:00",
   "extensions": {
     "website": "https://hineycoin.online",
     "twitter": "https://x.com/hineycoin",
@@ -29,7 +33,7 @@
       "name": "Hineycoin",
       "decimals": 6,
       "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
-      "tags": ["meme", "community", "raydium-launch"]
+      "tags": ["meme", "community", "launchpad", "raydium"]
     }
   ]
 }
