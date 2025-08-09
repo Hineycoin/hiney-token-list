@@ -1,10 +1,18 @@
 {
-  "name": "HINEY Token List",
+  "name": "Hineycoin (HINEY)",
   "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
   "tags": {
+    "meme": {
+      "name": "Meme Token",
+      "description": "First Solana meme coin blending entertainment, utility, and real impact."
+    },
     "community": {
       "name": "Community Token",
-      "description": "First Solana community coin blending entertainment, utility, and real impact."
+      "description": "Token managed and supported by community."
+    },
+    "raydium-launch": {
+      "name": "Raydium Launchpad",
+      "description": "Token launched via Raydium Launchpad."
     }
   },
   "timestamp": "2025-07-22T12:00:00+00:00",
@@ -16,7 +24,7 @@
       "name": "Hineycoin",
       "decimals": 6,
       "logoURI": "https://hineycoin.online/wp-content/uploads/2025/07/DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray.png",
-      "tags": ["community"]
+      "tags": ["meme", "community", "raydium-launch"]
     }
   ]
 }
